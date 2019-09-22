@@ -1,0 +1,10 @@
+# folder
+.idea/*
+out/*
+
+# class folder
+*.class
+
+*.war
+*.jar
+*.ear
