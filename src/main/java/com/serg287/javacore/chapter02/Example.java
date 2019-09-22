@@ -1,6 +1,6 @@
 package main.java.com.serg287.javacore.chapter02;
 
-public class Example {
+class Example {
 
     public static void main(String[] args) {
 
