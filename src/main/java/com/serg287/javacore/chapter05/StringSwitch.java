@@ -14,8 +14,8 @@ public class StringSwitch {
             case "три":
                 System.out.println("тpи");
                 break;
-        default:
-            System.out.println("не совпало");
+            default:
+                System.out.println("не совпало");
         }
     }
 }
