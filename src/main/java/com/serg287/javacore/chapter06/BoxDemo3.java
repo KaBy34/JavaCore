@@ -2,7 +2,7 @@ package main.java.com.serg287.javacore.chapter06;
 
 // В этой программе применяется метод, введенный в класс Вох
 
-class Box {
+class Box3 {
     double width;
     double height;
     double depth;
@@ -16,8 +16,8 @@ class Box {
 
 class BoxDemo3 {
     public static void main(String[] args) {
-        Box mybox1 = new Box();
-        Box mybox2 = new Box();
+        Box3 mybox1 = new Box3();
+        Box3 mybox2 = new Box3();
 
         // присвоить значение переменным экземпляра mybox1
         mybox1.width = 10;
