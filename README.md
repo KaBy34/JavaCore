@@ -1,6 +1,6 @@
 # JavaCore
-Study
+Studying
 
-Herbert Schildt "The Complete Refernce. Java. Ninth Edition"
+Herbert Schildt "The Complete Reference. Java. Ninth Edition"
 
 Examples from the book.
