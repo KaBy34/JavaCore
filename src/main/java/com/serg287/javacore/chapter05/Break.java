@@ -6,12 +6,9 @@ public class Break {
     public static void main(String[] args) {
         boolean t = true;
 
-        first:
-        {
-            second:
-            {
-                third:
-                {
+        first: {
+            second: {
+                third: {
                     System.out.println("Пpeдшecтвyeт оператору break.");
                     if (t) break second; // выход из блока second
                     System.out.println("Этoт оператор не будет выполняться");
