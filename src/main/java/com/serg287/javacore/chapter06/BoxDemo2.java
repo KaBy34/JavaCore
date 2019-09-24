@@ -2,7 +2,7 @@ package main.java.com.serg287.javacore.chapter06;
 
 // В этой программе объявляются два объекта класса Вох
 
-class Box {
+class Box2 {
     double width;
     double height;
     double depth;
@@ -10,8 +10,8 @@ class Box {
 
 class BoxDemo2 {
     public static void main(String[] args) {
-        Вох mybox1 = new Вох();
-        Вох mybox2 = new Вох();
+        Box2 mybox1 = new Box2();
+        Box2 mybox2 = new Box2();
         double vol;
 
         // присвоить значения переменным экземпляра myboxl
