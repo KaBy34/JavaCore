@@ -8,6 +8,7 @@ class Вох {
     double height;
     double depth;
 }
+
 class BoxDemo {
     public static void main(String[] args) {
         Вох mybox = new Вох();
