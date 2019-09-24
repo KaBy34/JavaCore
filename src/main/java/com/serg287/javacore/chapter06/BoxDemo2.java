@@ -8,7 +8,7 @@ class Box {
     double depth;
 }
 
-public class BoxDemo2 {
+class BoxDemo2 {
     public static void main(String[] args) {
         Вох mybox1 = new Вох();
         Вох mybox2 = new Вох();
