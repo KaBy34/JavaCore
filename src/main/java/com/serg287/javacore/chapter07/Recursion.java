@@ -11,7 +11,7 @@ class Factorial {
     }
 }
 
-public class Recurtion {
+public class Recursion {
     public static void main(String[] args) {
         Factorial f = new Factorial();
 
