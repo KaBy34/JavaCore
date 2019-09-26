@@ -2,8 +2,8 @@ package main.java.com.serg287.javacore.chapter08;
 // Расширение класса BoxWeiqht включением в него
 // поля стоимости доставки
 
-// class Box2 {} (c)
-// class BoxWeight extends Box {} (c)
+// class Box2 {} (c) DemoSuper.java
+// class BoxWeight2 extends Box2 {} (c) DemoSuper.java
 
 // добавить поле стоимости доставки
 class Shipment extends BoxWeight2 {
