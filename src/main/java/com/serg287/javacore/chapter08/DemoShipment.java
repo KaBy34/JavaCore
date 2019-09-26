@@ -49,6 +49,7 @@ public class DemoShipment {
         System.out.println("Bec shipment1 равен " + shipment1.weight);
         System.out.println("Cтoимocть доставки: $" + shipment1.cost);
         System.out.println();
+
         vol = shipment2.volume();
         System.out.println("Oбъeм shipment2 равен " + vol);
         System.out.println("Bec shipment2 равен " + shipment2.weight);
