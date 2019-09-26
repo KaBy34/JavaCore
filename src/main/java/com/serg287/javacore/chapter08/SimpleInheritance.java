@@ -21,7 +21,7 @@ class В extends А {
     }
     void sum() {
 
-        System.out.println("i + j +k: " + (i+j+k));
+        System.out.println("i + j + k: " + (i+j+k));
     }
 }
 
