@@ -14,7 +14,7 @@ class B4 extends A4 {
     }
 }
 
-class C4 extends B4 {
+class C4 extends A4 {
     // переопределить метод callme()
     void callme() {
         System.out.println("B методе callme() из класса C4");
