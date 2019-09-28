@@ -2,8 +2,8 @@ package main.java.com.serg287.javacore.chapter09.p2;
 
 class OtherPackage {
     OtherPackage() {
-        main.java.com.serg287.javacore.chapter09.p1.Protection p =
-                new main.java.com.serg287.javacore.chapter09.p1.Protection();
+        main.java.com.serg287.javacore.chapter09.p1.Protection p;
+        p = new main.java.com.serg287.javacore.chapter09.p1.Protection();
         System.out.println("кoнcтpyктop иэ другого пакета");
 
         // доступно только для данного класса или пакета
