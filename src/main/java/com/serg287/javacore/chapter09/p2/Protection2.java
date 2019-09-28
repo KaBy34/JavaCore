@@ -3,7 +3,7 @@ package main.java.com.serg287.javacore.chapter09.p2;
 
 class Protection2 extends main.java.com.serg287.javacore.chapter09.p1.Protection {
     Protection2() {
-        System.out.println("конструктор , унаследованный иэ другого пакета");
+        System.out.println("конструктор , унаследованный из другого пакета");
         // доступно только для данного класса или пакета
         // System.out.println("n = " + n);
 
