@@ -1,6 +1,8 @@
 package main.java.com.serg287.javacore.apps.tictactoe;
-import java.util.Scanner;
 
+// (c) https://javahungry.blogspot.com/2013/06/tic-tac-toe-version-3-console-based.html
+
+import java.util.Scanner;
 
 public class TicTacToe
 {
