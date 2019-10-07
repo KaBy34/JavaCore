@@ -1,5 +1,7 @@
 package main.java.com.serg287.javacore.apps.tictactoe;
 
+// remaked TicTacToe.java
+
 public class Field {
     int counter;
     char posn[]=new char[10];

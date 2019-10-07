@@ -1,5 +1,7 @@
 package main.java.com.serg287.javacore.apps.tictactoe;
 
+// remaked TicTacToe.java
+
 import java.util.Scanner;
 
 public class GameRunner {
