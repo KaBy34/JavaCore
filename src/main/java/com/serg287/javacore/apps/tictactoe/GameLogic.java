@@ -20,7 +20,6 @@ public class GameLogic extends Field {
 
             boolean posTaken = true;
             while (posTaken) {
-                // System.out.println( "position is taken, please enter a valid space");
                 Scanner in =new Scanner (System.in);
                 spot=in.nextInt();
                 posTaken = checkPosn(spot);
@@ -106,11 +105,6 @@ public class GameLogic extends Field {
         if (player == 'X')
             player = 'O';
         else player = 'X';
-    }
-
-    public String getTitle()
-    {
-        return "Tic Tac Toe" ;
     }
 
     public  char getPlayer()
