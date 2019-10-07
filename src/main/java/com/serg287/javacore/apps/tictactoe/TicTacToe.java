@@ -1,6 +1,6 @@
 package main.java.com.serg287.javacore.apps.tictactoe;
 
-// (c) https://javahungry.blogspot.com/2013/06/tic-tac-toe-version-3-console-based.html
+//  (c) https://javahungry.blogspot.com/2013/06/tic-tac-toe-version-3-console-based.html
 
 import java.util.Scanner;
 
